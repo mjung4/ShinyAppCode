@@ -1,4 +1,6 @@
 # ShinyAppCode
-ui.R and Server.R for the Shiny App
+ui.R and Server.R for the Shiny Application "Analayse Mtcars"
 
-This is the Code for the Shiny Application in Repository ShinyApp
+The Application "Analyse Mtcars" helps to analyse the  "Motor Trend Car Road Tests" dataset (mtcars).
+
+
