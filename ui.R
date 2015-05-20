@@ -85,9 +85,6 @@ shinyUI(pageWithSidebar(
                                  br(),
                                  verbatimTextOutput("fit.summary"),
                                  br()
-                        #         ,
-                        #         strong('Adjusted R-squared'),
-                        #         strong(verbatimTextOutput("adj.r.squared"))
                         )
                 )
         )
